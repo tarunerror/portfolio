@@ -29,7 +29,7 @@ A modern, interactive portfolio website showcasing my skills, projects, and prof
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/tarunerror/portfolio.git
    ```
 
 2. Install dependencies:
